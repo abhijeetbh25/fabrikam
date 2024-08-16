@@ -1,2 +1,2 @@
-# fabrikam
+# mynode
 demo app deployment
